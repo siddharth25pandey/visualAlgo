@@ -1,5 +1,5 @@
 # visualAlgo
-##Algorithms visualised:
+## Algorithms visualised:
 # 1) Sorting Algorithms 
     a) Bubble Sort
     b) Selection Sort 
