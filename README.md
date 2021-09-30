@@ -26,3 +26,10 @@
 
 # Common : 
     Disables UI while an algorithm is running and can only be stopped using reset button. 
+
+## License
+[MIT](LICENSE)
+##
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/siddharth25pandey/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://GitHub.com/siddharth25pandey/)
+## <div align="center">🤞Happy Coding🤞</div>
